@@ -16,3 +16,5 @@
 
 
 # About XG-Boost
+
+<a href="https://www.edureka.co/blog/boosting-machine-learning/">XG-Boost algorithm</a>
