@@ -17,7 +17,7 @@ Scoccer-Prediction-AI
 <a href="https://www.edureka.co/blog/boosting-machine-learning/">XG-Boost algorithm</a>
 
 
-
+<embed src="file_name.pdf" width="800px" height="2100px" />
 
 
 
