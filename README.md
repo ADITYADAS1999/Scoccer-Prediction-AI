@@ -1,20 +1,26 @@
+# Predicting_Winning_Teams
+This is the code for "Predicting the Winning Team with Machine Learning" by Siraj Raval on Youtube
 
 
+## Overview
 
+This is the code for [this](https://youtu.be/6tQhoUuQrOw) video on Youtube by Siraj Raval. We're going to predict whether or not the home team will win given a set of other statistics. The dataset for this was retrieved from [this](http://football-data.co.uk/data.php) site. 
 
+## Dependencies
 
+* scikit-learn 
+* xgboost
+* pandas
 
-# Scoccer-Prediction-AI!
+Install missing dependencies with [pip](https://pip.pypa.io/en/stable/). 
 
+## Usage
 
-<img src="https://user-images.githubusercontent.com/58718316/166460558-3ec89723-6c15-4220-af2f-424b6fef5654.jpeg">
-<img src="https://user-images.githubusercontent.com/58718316/166460567-12b15eee-01da-473a-9994-25d05c61cb33.jpeg">
-<img src="https://user-images.githubusercontent.com/58718316/166460570-35cee5e0-eb32-4e43-bba6-c7d691b93144.jpeg">
+Run `jupyter notebook` in terminal, then the code will pop up in your browser.
 
+Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
+## Credits 
 
+Credits for this code go to [RUdrakshTuwani](https://github.com/RudrakshTuwani/Football-Data-Analysis-and-Prediction/blob/master/Prediction/Scraping%20and%20Cleaning.ipynb). I've merely created a wrapper to get people started
 
-
-# About XG-Boost
-
-<a href="https://www.edureka.co/blog/boosting-machine-learning/">XG-Boost algorithm</a>
